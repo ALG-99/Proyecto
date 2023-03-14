@@ -41,6 +41,6 @@ try {
     $instance->run();
     die();
 }
-
+;
 
 ?>
